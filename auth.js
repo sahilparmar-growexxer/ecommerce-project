@@ -1,3 +1,3 @@
-function login() {
+function login(username, password) {
 // TODO
 }
