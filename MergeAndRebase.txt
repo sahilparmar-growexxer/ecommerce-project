@@ -1,0 +1,5 @@
+merge:
+merge is basially use for merging two branches and it can be add in-between of branch
+
+rebase:
+rebase is use to merge two branch but it cannot add in-between. there is one base branch and other branch can merge on the tip of one branchC

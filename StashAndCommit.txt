@@ -1,0 +1,5 @@
+stash:
+when we are not sure to commit , stash can be use for further use
+
+commit:
+commit can be use when we sure about changes to remain.
