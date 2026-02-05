@@ -9,4 +9,8 @@ app.listen(PORT, () => {
 console.log(`Server running on port ${PORT}`);
 });
 
+app.get('/api/products', (req, res) => {
+res.json({ products: [] });
+});
+
 module.exports = app;
