@@ -1,0 +1,1 @@
+if we are pushing our branch on remote so there may occurred conflict of merging. so for rebasing purpose force push is necessary to resolve conflict. and branch can be rebase with each other.
