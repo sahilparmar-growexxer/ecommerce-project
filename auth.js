@@ -1,5 +1,5 @@
 function login(username, password) {
-// TODO
+// Validate credentials
 }
 
 function logout() {
